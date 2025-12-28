@@ -1,0 +1,2 @@
+# Nothing! Pure Python standard library magic.
+# Like your standup updates, this tool requires zero actual dependencies.
